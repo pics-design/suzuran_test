@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24db6ec966f7222acc5dfc3ccd3a2648",
+    "revision": "863771f8d8a4f1b2eaa370b76c4304f4",
     "url": "/suzuran_test/index.html"
   },
   {
-    "revision": "1a9bcd9f04a40fe02cfe",
-    "url": "/suzuran_test/static/css/main.d023e99a.chunk.css"
+    "revision": "8fa04dfb56d7a8145bff",
+    "url": "/suzuran_test/static/css/main.5972b17f.chunk.css"
   },
   {
     "revision": "36c7acef707aaa5ed9bf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suzuran_test/static/js/2.fdb907b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a9bcd9f04a40fe02cfe",
-    "url": "/suzuran_test/static/js/main.0b94cf33.chunk.js"
+    "revision": "8fa04dfb56d7a8145bff",
+    "url": "/suzuran_test/static/js/main.794a1898.chunk.js"
   },
   {
     "revision": "2bcd341cc6bb94b38cef",
