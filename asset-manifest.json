@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/suzuran_test/static/css/main.a4644e17.chunk.css",
+    "main.css": "/suzuran_test/static/css/main.4a307b6d.chunk.css",
     "main.js": "/suzuran_test/static/js/main.60df3523.chunk.js",
     "main.js.map": "/suzuran_test/static/js/main.60df3523.chunk.js.map",
     "runtime-main.js": "/suzuran_test/static/js/runtime-main.c6b4bbb6.js",
@@ -8,15 +8,15 @@
     "static/js/2.7e3074d2.chunk.js": "/suzuran_test/static/js/2.7e3074d2.chunk.js",
     "static/js/2.7e3074d2.chunk.js.map": "/suzuran_test/static/js/2.7e3074d2.chunk.js.map",
     "index.html": "/suzuran_test/index.html",
-    "precache-manifest.f8c096361f347feb34bef243fa4d5b1b.js": "/suzuran_test/precache-manifest.f8c096361f347feb34bef243fa4d5b1b.js",
+    "precache-manifest.a1dc0378fcb33ec78ff266d101c89590.js": "/suzuran_test/precache-manifest.a1dc0378fcb33ec78ff266d101c89590.js",
     "service-worker.js": "/suzuran_test/service-worker.js",
-    "static/css/main.a4644e17.chunk.css.map": "/suzuran_test/static/css/main.a4644e17.chunk.css.map",
+    "static/css/main.4a307b6d.chunk.css.map": "/suzuran_test/static/css/main.4a307b6d.chunk.css.map",
     "static/js/2.7e3074d2.chunk.js.LICENSE.txt": "/suzuran_test/static/js/2.7e3074d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6b4bbb6.js",
     "static/js/2.7e3074d2.chunk.js",
-    "static/css/main.a4644e17.chunk.css",
+    "static/css/main.4a307b6d.chunk.css",
     "static/js/main.60df3523.chunk.js"
   ]
 }
