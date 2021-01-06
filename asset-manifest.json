@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/suzuran_test/static/css/main.682e30fd.chunk.css",
-    "main.js": "/suzuran_test/static/js/main.d8998be2.chunk.js",
-    "main.js.map": "/suzuran_test/static/js/main.d8998be2.chunk.js.map",
+    "main.css": "/suzuran_test/static/css/main.5cecc331.chunk.css",
+    "main.js": "/suzuran_test/static/js/main.2e23032a.chunk.js",
+    "main.js.map": "/suzuran_test/static/js/main.2e23032a.chunk.js.map",
     "runtime-main.js": "/suzuran_test/static/js/runtime-main.c6b4bbb6.js",
     "runtime-main.js.map": "/suzuran_test/static/js/runtime-main.c6b4bbb6.js.map",
     "static/js/2.ec5e7d15.chunk.js": "/suzuran_test/static/js/2.ec5e7d15.chunk.js",
     "static/js/2.ec5e7d15.chunk.js.map": "/suzuran_test/static/js/2.ec5e7d15.chunk.js.map",
     "index.html": "/suzuran_test/index.html",
-    "precache-manifest.c2b6a329c04c80201f48b34bd178ca24.js": "/suzuran_test/precache-manifest.c2b6a329c04c80201f48b34bd178ca24.js",
+    "precache-manifest.b56e003303c4963d9b1def97cd79c4c2.js": "/suzuran_test/precache-manifest.b56e003303c4963d9b1def97cd79c4c2.js",
     "service-worker.js": "/suzuran_test/service-worker.js",
-    "static/css/main.682e30fd.chunk.css.map": "/suzuran_test/static/css/main.682e30fd.chunk.css.map",
+    "static/css/main.5cecc331.chunk.css.map": "/suzuran_test/static/css/main.5cecc331.chunk.css.map",
     "static/js/2.ec5e7d15.chunk.js.LICENSE.txt": "/suzuran_test/static/js/2.ec5e7d15.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6b4bbb6.js",
     "static/js/2.ec5e7d15.chunk.js",
-    "static/css/main.682e30fd.chunk.css",
-    "static/js/main.d8998be2.chunk.js"
+    "static/css/main.5cecc331.chunk.css",
+    "static/js/main.2e23032a.chunk.js"
   ]
 }
