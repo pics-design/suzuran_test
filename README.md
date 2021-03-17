@@ -1,1 +1,0 @@
-# suzuran_test
